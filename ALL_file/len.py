@@ -90,7 +90,7 @@ def configurazione_semp(Z):
             risultato += f"{i}{eletroni_usati} "
             eletronis -= eletroni_usati
             
-            return risultato.strip()
+        return risultato.strip()
         
     if Z == 24:
         return risultato.config(text="[Ar] 4s1 3d5")
@@ -123,6 +123,7 @@ def configurazione_semp(Z):
         elif 86 <= Z:
             eletronis -= 86
             return config_base("[Rn]", 15)
+    return
     
 # Logica tasto Help
 def risposta():
@@ -155,10 +156,7 @@ def aggiorna(così_funziona=None):
         risultato.config(text="")
         return
 
-    try:
-        if valore == "TheAlexio" or "TheAlexio10":
-            risultato.config(text="Si, sono il creatore di questa app")
-            
+    try:  
         Z = int(valore)
 
         if Z < 1:
