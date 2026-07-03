@@ -9,7 +9,7 @@
 
 > ---
 > ## **Language**:
-> - 🇬🇧 **[English](#english)**
+> - 🇬🇧 **[English](#-english)**
 > - 🇮🇹 **[Italiano](#-italiano)**
 >
 > ## **Contents**:
