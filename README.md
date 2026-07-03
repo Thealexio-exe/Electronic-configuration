@@ -80,7 +80,7 @@ To install this program correctly, follow the instructions shown below -->
 
 
 ### **Contacts**: 
-For questions, bug reports or suggestions: `alessioargenti10@gmail.com`
+For questions, bug reports or suggestions: `argenti.projects@gmail.com`
 
 
 ## <img src="All_file\img\italia.png" width="25" height="15"> **Italiano**
@@ -131,4 +131,4 @@ Per installare correttamente questo programma segui le istruzioni illustrate qui
 ---
 
 ### **Contatti**:
-In caso di domande, bug o suggerimenti: `alessioargenti10@gmail.com`
+In caso di domande, bug o suggerimenti: `argenti.projects@gmail.com`
