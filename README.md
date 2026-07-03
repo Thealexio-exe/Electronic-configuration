@@ -10,7 +10,7 @@
 > ---
 > ## **Language**:
 > - 🇬🇧 **[English](#english)**
-> - 🇮🇹 **[Italiano](#italiano)**
+> - 🇮🇹 **[Italiano](#-italiano)**
 >
 > ## **Contents**:
 > - **[Introduction](#introduction)** | **[Introduzione](#introduzione)**
