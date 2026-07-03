@@ -7,12 +7,21 @@
 ![Language](https://img.shields.io/badge/Language-IT%20%7C%20EN-red)
 ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
 
-🇮🇹 **[Italiano](#italiano)**
+> ---
+> ## **Language**:
+> - 🇬🇧 **[English](#english)**
+> - 🇮🇹 **[Italiano](#italiano)**
+>
+> ## **Contents**:
+> - **[Introduction](#introduction)** | **[Introduzione](#introduzione)**
+> - **[Download](#download)** | **[Download](#download-1)**
+> - **[Contacts](#contacts)** | **[Contatti](#contatti)**
+> ---
 
 ## <img src="All_file\img\ing.png" width="25" height="15"> **English**
 
 
-**Introduction**:
+### **Introduction**:
 This program is a small electronic configuration converter (this is my first official project published on GitHub).
 
 The program was developed in Python using the Tkinter library and includes several features, including:
@@ -26,11 +35,11 @@ The program was developed in Python using the Tkinter library and includes sever
 Results are generated instantly and the program also handles some exceptions in electronic configuration.
 
 
-
 ---
 
 
-**Download**: To install this program correctly, follow the instructions shown below -->
+### **Download**: 
+To install this program correctly, follow the instructions shown below -->
 
 
 - #### Download the compressed folder `install_this`, then extract it completely.  
@@ -67,17 +76,16 @@ Results are generated instantly and the program also handles some exceptions in 
 </p>
 
 
-
 ---
 
 
-**Contacts**: For questions, bug reports or suggestions: `alessioargenti10@gmail.com`
+### **Contacts**: 
+For questions, bug reports or suggestions: `alessioargenti10@gmail.com`
 
-🇬🇧 **[English](#english)**
 
 ## <img src="All_file\img\italia.png" width="25" height="15"> **Italiano**
 
-**Introduzione**:  
+### **Introduzione**:  
 Questo programma è un piccolo convertitore per la configurazione elettronica (è il mio primo progetto ufficiale pubblicato su GitHub).
 
 Il programma è stato sviluppato in Python utilizzando la libreria Tkinter e include diverse funzionalità, tra cui:
@@ -88,10 +96,10 @@ Il programma è stato sviluppato in Python utilizzando la libreria Tkinter e inc
 
 I risultati vengono generati istantaneamente e il programma gestisce anche alcune eccezioni della configurazione elettronica.
 
-
 ---
 
-**Download**: Per installare correttamente questo programma segui le istruzioni illustrate qui sotto -->
+### **Download**: 
+Per installare correttamente questo programma segui le istruzioni illustrate qui sotto -->
 
 - #### Scarica la cartella compressa `install_this`, quindi estraila completamente.  
   **Importante:** non spostare il file `.exe` fuori dalla cartella estratta, altrimenti il programma potrebbe non funzionare correttamente.
@@ -122,4 +130,5 @@ I risultati vengono generati istantaneamente e il programma gestisce anche alcun
 
 ---
 
-**Contatti**: In caso di domande, bug o suggerimenti: `alessioargenti10@gmail.com`
+### **Contatti**:
+In caso di domande, bug o suggerimenti: `alessioargenti10@gmail.com`
