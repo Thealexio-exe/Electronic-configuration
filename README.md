@@ -7,7 +7,7 @@
 ![Language](https://img.shields.io/badge/Language-IT%20%7C%20EN-red)
 ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
 
-
+🇮🇹 **[Italiano](#italiano)**
 
 ## <img src="All_file\img\ing.png" width="25" height="15"> **English**
 
@@ -72,6 +72,8 @@ Results are generated instantly and the program also handles some exceptions in 
 
 
 **Contacts**: For questions, bug reports or suggestions: `alessioargenti10@gmail.com`
+
+🇬🇧 **[English](#english)**
 
 ## <img src="All_file\img\italia.png" width="25" height="15"> **Italiano**
 
